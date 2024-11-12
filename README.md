@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=connect-web&layout=compact&theme=dark" alt="Top Languages">
-  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=connect-web&theme=dark" alt="Streak stats">
 </p>
 
