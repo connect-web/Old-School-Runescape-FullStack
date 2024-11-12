@@ -4,8 +4,8 @@
 
 ## Projects
 
-- [🎨 Frontend Vue.Js](https://github.com/yourusername/frontend-repo)
+- [🎨 Frontend Vue.Js](https://github.com/connect-web/frontend-repo)
 - 🔒 Backend (Private for security reasons)
-- [🤖 Machine Learning](https://github.com/yourusername/ml-repo)
-- [⚡ High Performance Scraper](https://github.com/yourusername/scraper-repo)
+- [🤖 Machine Learning](https://github.com/connect-web/ml-repo)
+- [⚡ High Performance Scraper](https://github.com/connect-web/scraper-repo)
 
