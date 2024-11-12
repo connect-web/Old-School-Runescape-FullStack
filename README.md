@@ -30,9 +30,11 @@ These projects power the website: [low-latency.co.uk](https://low-latency.co.uk)
 
 
 <h3 style="color:#FFFF">Backend</h3>
-![Go](https://img.shields.io/badge/Go-%23323330.svg?style=for-the-badge&logo=Go&logoColor=00AED8)
-   ![PostgreSQL](https://img.shields.io/badge/postgreSQL-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
+![Go](https://img.shields.io/badge/Go-%23323330.svg?style=for-the-badge&logo=Go&logoColor=00AED8)
+![PostgreSQL](https://img.shields.io/badge/postgreSQL-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 <img src="https://gofiber.io/assets/images/logo.svg" height=30px>
+
+
 
 The backend is private for security reasons.
