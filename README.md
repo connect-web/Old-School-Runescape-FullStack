@@ -3,11 +3,11 @@
 </p>
 
 <h1 style="color:#FFF">Old School Runescape Full Stack Development</h1>
-<h1 style="color:#0d7eff">Low Latency</h1>
+<h2 style="color:#0d7eff">Low Latency</h2>
 
 These projects power the website: [low-latency.co.uk](https://low-latency.co.uk)
 
-<img src="https://gofiber.io/assets/images/logo.svg" height=30px>
+
 
 - [![Frontend](https://img.shields.io/badge/Frontend-Vue.js-lightgreen)](https://github.com/connect-web/vue.js-low-latency)
 <br>![HTML](https://img.shields.io/badge/HTML-%23323330.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -27,8 +27,12 @@ These projects power the website: [low-latency.co.uk](https://low-latency.co.uk)
 
 
 
+
+
+<h3 style="color:#FFFF">Backend</h3>
+![Go](https://img.shields.io/badge/Go-%23323330.svg?style=for-the-badge&logo=Go&logoColor=00AED8)
+![PostgreSQL](https://img.shields.io/badge/postgreSQL-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+
+<img src="https://gofiber.io/assets/images/logo.svg" height=30px>
+
 The backend is private for security reasons.
-
-
-
-
